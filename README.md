@@ -1,3 +1,5 @@
+[Español](https://github.com/Pictus08) | [English](https://github.com/Pictus08/Pictus08/blob/main/README.en.md)
+
 # Hola, soy Pablo Luis Quiñones
 
 ### Ingeniería civil · Automatización · Herramientas digitales
