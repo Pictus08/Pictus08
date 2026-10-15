@@ -14,13 +14,6 @@ Programa en **C++** para generar hidrogramas de caudal a partir de parámetros d
 
 Un punto de encuentro entre hidráulica y programación.
 
-## Otros repositorios propios
-
-| Repositorio | Enfoque |
-| --- | --- |
-| [aplicaciones](https://github.com/Pictus08/aplicaciones) | Utilidades varias en JavaScript; en desarrollo. |
-| [estilos-app](https://github.com/Pictus08/estilos-app) | Proyecto de interfaz con configuración de Storybook y Tailwind CSS. |
-
 ## Mi base técnica
 
 - **Ingeniería:** producción de agregados, gestión de canteras y plantas, mantenimiento y proyectos hidráulicos.
