@@ -2,6 +2,8 @@
 
 # Hola, soy Pablo Luis Quiñones
 
+[![Actividad de GitHub de Pictus08](https://raw.githubusercontent.com/Pictus08/Pictus08/main/assets/activity-es.svg)](https://github.com/Pictus08?tab=overview)
+
 ### Ingeniería civil · Automatización · Herramientas digitales
 
 Soy ingeniero civil de Misiones, Argentina. Actualmente gestiono canteras y plantas de trituración, estabilizado y asfalto. Mi trayectoria también incluye proyectos hidráulicos y modelado BIM de instalaciones.

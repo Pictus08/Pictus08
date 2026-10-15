@@ -1,0 +1,31 @@
+name: Update profile activity
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate activity cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/generate_activity.py
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-es.svg assets/activity-en.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile activity cards"
+            git push
+          fi
