@@ -2,7 +2,7 @@
 
 # Hi, I'm Pablo Luis Quiñones
 
-[![Pictus08 GitHub activity](https://raw.githubusercontent.com/Pictus08/Pictus08/main/assets/activity-en.svg)](https://github.com/Pictus08?tab=overview)
+[![Pictus08 GitHub activity](https://raw.githubusercontent.com/Pictus08/Pictus08/main/assets/annual-compact-en.svg)](https://github.com/Pictus08?tab=overview)
 
 ### Civil Engineering · Automation · Digital Tools
 
