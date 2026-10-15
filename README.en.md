@@ -2,8 +2,6 @@
 
 # Hi, I'm Pablo Luis Quiñones
 
-[![Pictus08 GitHub activity](https://raw.githubusercontent.com/Pictus08/Pictus08/main/assets/annual-compact-en.svg)](https://github.com/Pictus08?tab=overview)
-
 ### Civil Engineering · Automation · Digital Tools
 
 I'm a civil engineer based in Misiones, Argentina. I currently manage quarries and crushing, soil stabilization, and asphalt plants. My background also includes hydraulic engineering projects and BIM modeling of building services.
