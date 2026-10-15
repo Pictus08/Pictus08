@@ -116,7 +116,7 @@ if __name__=='__main__':
     target=Path(args.output)
     target.mkdir(parents=True,exist_ok=True)
     for lang in ('es','en'):
-        file=target/f'activity-{lang}.svg'
+        file=target/f'annual-compact-{lang}.svg'
         file.write_text(render_compact(data,args.year,lang),encoding='utf-8')
         print(file)
     print('Annual contributions:',data['totalContributions'])
